@@ -1,5 +1,5 @@
 # "Quantum Support Vector Machine (QSVM)" Template
-This template shows you how to compute with a Quantum Support Vector Machine (QSVM) on <strong>Dynex</strong>
+This template shows you how to compute with a Quantum Support Vector Machine (QSVM) on <strong>Dynex</strong> using Google TensorFlow or PyTorch
 
 <p style="color: green;">FREE TEMPLATE (DYNEX DEVELOPERS)</p>
 
