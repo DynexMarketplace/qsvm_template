@@ -1,6 +1,10 @@
 # "Quantum Support Vector Machine (QSVM)" Template
-This template shows you how to compute with a Quantum Support Vector Machine (QSVM) on <strong>Dynex</strong> using Google TensorFlow or PyTorch
+This template shows you how to compute with a Quantum Support Vector Machine (QSVM) on <strong>Dynex</strong> using Google TensorFlow or PyTorch. Dynex is the world’s only accessible neuromorphic quantum computing cloud for solving real-world problems, at scale.
 
-<p style="color: green;">FREE TEMPLATE (DYNEX DEVELOPERS)</p>
+# Usage
 
-Dynex is the world’s first neuromorphic supercomputing blockchain based on the DynexSolve chip algorithm, a Proof-of-Useful-Work (PoUW) approach to solving real-world problems. The Dynex SDK is used to interact and compute on the Dynex Platform.
+1. Launch in Github Codespaces and wait until the codepsace is fully initialised
+
+2. Add your account keys by drag&drop of your dynex.ini into the main folder
+
+3. Run the demo by opening the Jupyter notebook file *.ipynb
